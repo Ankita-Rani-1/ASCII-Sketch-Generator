@@ -34,11 +34,6 @@ Now, we fill the characters in each box of ascii image. The type and color of ch
 
 <p align="center"><img src="img/ss2.png" hieght="250" alt="2" /></p>
 
-## Demo
-
-This is a small video demo for better understanding of this project.
-[Drive Link](https://drive.google.com/file/d/1wm28DxqTV2R8mbiCSqKLW2QyfhU1repl/view?usp=sharing)
-
 Input:
 
 <p align="center"><img src="input.jpg" hieght="200" alt="input image" /></p>
